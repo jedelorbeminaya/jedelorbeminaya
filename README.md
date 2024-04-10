@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 <h1 align="center">Creathing 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
 
 <p align="center">Software Developer, Web Development Specialist</p>
-<hr>
-<h2 align="center">Skills</2>
-<hr>
+
+##
+
+<h1 align="center">Skills</1>
+
+##
+
 <table border=2 align="center">
 <thead>
     <tr>
