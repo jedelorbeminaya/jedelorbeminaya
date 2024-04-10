@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Crething 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
+<h1 align="center">Creathing 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
