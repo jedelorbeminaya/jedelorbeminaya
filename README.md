@@ -17,3 +17,19 @@ Here are some ideas to get you started:
 <h1 align="center">Creathing 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
 
 <p align="center">Software Developer, Web Development Specialist</p>
+
+<h2>Skills</2>
+
+<table>
+<thead>
+<tr>
+    <th>Frontend</th>
+    <th>Backend</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td><img src="![html-img](https://cdn-icons-png.flaticon.com/512/732/732212.png)" width="50px"><td>
+</tr>
+</tbody>
+</table>
