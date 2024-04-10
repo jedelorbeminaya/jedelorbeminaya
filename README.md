@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <table border=2 align="center">
 <thead>
 <tr>
-    <th colspan=3><h2 align="center" style="border:none;">Tecnologies Stacks & Tools</h2></th>
+    <th colspan=3><h2 align="center" style="border:none;">Tech Stack & Tools</h2></th>
 </tr>
     <tr>
         <th>Frontend</th>
