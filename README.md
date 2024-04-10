@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Skills</1>
 
-##
-
 <table border=2 align="center">
 <thead>
     <tr>
