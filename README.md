@@ -24,9 +24,9 @@ Here are some ideas to get you started:
     <th colspan=3><h2 align="center" style="border:none;">Tech Stack & Tools</h2></th>
 </tr>
     <tr>
-        <th>Frontend</th>
-        <th>Backend</th>
-        <th>Tools</th>
+        <th><h3 align="center">Frontend</h3></th>
+        <th><h3 align="center">Backend</h3></th>
+        <th><h3 align="center">Tools</h3></th>
     </tr>
 </thead>
 <tbody>
@@ -40,6 +40,9 @@ Here are some ideas to get you started:
              </a>
              <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
             <img alt="javascript-icon" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="38px">
+            </a>
+            <a href="https://getbootstrap.com/" target="_blank">
+            <img alt="bootstrap-icon" src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="45px">
             </a>
         </td>
         <td>
