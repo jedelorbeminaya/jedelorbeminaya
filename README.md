@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <tbody>
     <tr>
         <td>
-            <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+            <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" style="border:none;">
             <img alt="html-icon" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="33px">
             </a>
             <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
