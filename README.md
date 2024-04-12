@@ -18,12 +18,10 @@ Here are some ideas to get you started:
 
 <p>Software Developer, FullStack Web Development Specialist focusing in create efetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thanks for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
 
-<h2 align="center">Contact with my through</h2>
-<ul style="display:flex; gap:20px; list-style:none; justify-content:center; align-items:center;">
-    <li><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="40px"/></a></li>
-    <li><a href="www.linkedin.com/in/jedelorbeminaya
-"><img alt="LinkedIn-icon" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="68px"/></a></li>
-</ul>
+<h1 align="center">Contact with my through</h1>
+<p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
+<a href="www.linkedin.com/in/jedelorbeminaya"><img alt="LinkedIn-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50px"/></p>
+
 
 
 
