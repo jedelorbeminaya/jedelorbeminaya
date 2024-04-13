@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
 
-<p>Software Developer, FullStack Web Development Specialist focusing in create efetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thank you for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
+<p>Software Developer, Full-Stack Web Development Specialist focusing in create effetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thank you for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
 
 <h1 align="center">Contact with my through</h1>
 <p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
