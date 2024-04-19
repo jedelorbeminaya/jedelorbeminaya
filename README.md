@@ -22,15 +22,12 @@ Here are some ideas to get you started:
 <ul>
 <li>📚I'm studing at <a href="https://itla.edu.do/" target="_blank">ITLA</a>-<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
 </ul>
+
 <h1 align="center">Contact with me through</h1>
 <p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
 <a href="https://www.linkedin.com/in/jedelorbeminaya"><img alt="LinkedIn-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50px"/></a></p>
 
-
-
-
-
-<table border=2 align="center">
+<table border=2 align="center" width=100%>
 <thead>
 <tr>
     <th colspan=3><h2 align="center" style="border:none;">Tech Stack & Tools</h2></th>
