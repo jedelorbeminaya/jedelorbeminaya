@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
 
-<p>Software Developer, Full-Stack Web Development Specialist focusing in create effetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thank you for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
+<p>Software Developer, Full-Stack Web Development Specialist focusing in create effetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thanks for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
 
-<h1 align="center">Contact with my through</h1>
+<h1 align="center">My currently state</h1>
+<ul>
+<li>📚I'm studing at <a href="https://itla.edu.do/" target="_blank">ITLA</a>-<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
+</ul>
+<h1 align="center">Contact with me through</h1>
 <p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
 <a href="https://www.linkedin.com/in/jedelorbeminaya"><img alt="LinkedIn-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50px"/></a></p>
 
