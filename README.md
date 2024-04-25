@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
 
-<p>Software Developer, Full-Stack Web Development Specialist focusing in create effetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thanks for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
+<p>Full-Stack Web Development focusing in create effetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thanks for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
 
 <h1 align="center">My currently state</h1>
 <ul>
-<li>📚I'm studing at <a href="https://itla.edu.do/" target="_blank">ITLA</a>-<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
+<li>📚I'm studing in <a href="https://itla.edu.do/" target="_blank">ITLA</a>:<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
 </ul>
 
 <h1 align="center">Contact with me through</h1>
