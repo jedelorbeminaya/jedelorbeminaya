@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h1 align="center">My currently state</h1>
 <ul>
 <li>📚I'm studing in <a href="https://itla.edu.do/" target="_blank">ITLA</a>:<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
+<li>📄I'm making certification of <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>:<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank">[Resposive Web Desing]</a>.</li>
 </ul>
 
 <h1 align="center">Contact with me through</h1>
