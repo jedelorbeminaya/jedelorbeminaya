@@ -42,32 +42,18 @@ Here are some ideas to get you started:
 <tbody>
     <tr>
         <td>
-            <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank" style="border:none;">
-            <img alt="html-icon" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="33px">
-            </a>
-            <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-            <img alt="css-icon" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" width="30px">
-             </a>
-             <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-            <img alt="javascript-icon" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" width="38px">
-            </a>
-            <a href="https://getbootstrap.com/" target="_blank">
-            <img alt="bootstrap-icon" src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" width="45px">
+            <a href="https://skillicons.dev" target="_blank" style="border:none;">
+            <img alt="html-icon" src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
             </a>
         </td>
         <td>
-        <a href="https://www.mysql.com/" target="_blank">
-        <img  alt="mysql-icon" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png" width="45px">
+        <a href="https://skillicons.dev" target="_blank" style="border:none;">
+            <img alt="html-icon" src="https://skillicons.dev/icons?i=mysql,php,cs">
         </a>
-        <a href="https://www.php.net/" target="_blank">
-        <img alt="php-icon" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" width="38px">
-        </a>
-        <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
-        <img alt="c#-icon" src="https://procoders.tech/wp-content/uploads/2023/05/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo-removebg-preview.png" width="38px">
         </td>
         <td>
-        <a href="https://www.figma.com/" target="_blank">
-         <img  alt="mysql-icon" src="https://static-00.iconduck.com/assets.00/apps-figma-icon-2048x2048-ctjj5ab7.png" width="35px">
+        <a href="https://skillicons.dev" target="_blank">
+         <img  alt="mysql-icon" src="https://skillicons.dev/icons?i=figma">
          </a>
         </td>
     </tr>
