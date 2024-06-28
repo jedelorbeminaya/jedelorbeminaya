@@ -58,5 +58,11 @@ Here are some ideas to get you started:
          </a>
         </td>
     </tr>
+    <tr>
+     <td colspan=3 align="center">
+     <a href="https://github.com/jedelorbeminaya/github-readme-stats" target="_blank">
+         <img  alt="mysql-icon" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jedelorbeminaya&layout=donut" width=300px>
+         </a></td>
+    </tr>
 </tbody>
 </table>
