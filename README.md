@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
-
-<p>Full-Stack Web Development focusing in create effetive software solutions implementing a honest, dynamic and organized collaboration work. I'm open to work with you, thanks for visit my <span><a href="https://github.com/jedelorbeminaya"><strong>GitHub</strong></a></span> profile.</p>
+<p align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</p>
 
 <h1 align="center">My currently state</h1>
 <ul>
@@ -24,11 +22,7 @@ Here are some ideas to get you started:
 <li>📄I'm making certification of <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>:<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank">[Resposive Web Desing]</a>.</li>
 <li>📄I'm learning <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">C#</a>:<a href="https://dotnet.microsoft.com/en-us/learn/back-end-web-dev" target="_blank">[ASP.Net Core]</a>.</li>
 </ul>
-
-<h1 align="center">Contact with me through</h1>
-<p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
-<a href="https://www.linkedin.com/in/jedelorbeminaya"><img alt="LinkedIn-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50px"/></a></p>
-
+<br>
 <table border=2 align="center" width=100%>
 <thead>
 <tr>
@@ -66,3 +60,8 @@ Here are some ideas to get you started:
     </tr>
 </tbody>
 </table>
+<br>
+<h1 align="center">Contact with me through</h1>
+<p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
+<a href="https://www.linkedin.com/in/jedelorbeminaya"><img alt="LinkedIn-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50px"/></a></p>
+
