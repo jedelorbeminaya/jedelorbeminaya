@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</p>
-
+<br>
 <h1 align="center">My currently state</h1>
 <ul>
 <li>📚I'm studing in <a href="https://itla.edu.do/" target="_blank">ITLA</a>:<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
