@@ -15,14 +15,18 @@ Here are some ideas to get you started:
 
 
 <p align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</p>
-<br>
+<p>
+Full-Stack Web Development focusing in create effetive software solutions implementing a dynamic and organized collaboration work. thank you for visit my GitHub profile.
+</p>
+<!--
 <h1 align="center">My currently state</h1>
 <ul>
 <li>📚I'm studing in <a href="https://itla.edu.do/" target="_blank">ITLA</a>:<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
 <li>📄I'm making certification of <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>:<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank">[Resposive Web Desing]</a>.</li>
 <li>📄I'm learning <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">C#</a>:<a href="https://dotnet.microsoft.com/en-us/learn/back-end-web-dev" target="_blank">[ASP.Net Core]</a>.</li>
 </ul>
-<br>
+--->
+
 <table border=2 align="center" width=100%>
 <thead>
 <tr>
