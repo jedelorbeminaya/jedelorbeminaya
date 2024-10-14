@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</p>
+<h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
 <p>
 Full-Stack Web Development focusing in create effetive software solutions implementing a dynamic and organized collaboration work. thank you for visit my GitHub profile.
 </p>
