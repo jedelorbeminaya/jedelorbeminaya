@@ -42,12 +42,12 @@ Full-Stack Web Development focusing in create effetive software solutions implem
     <tr>
         <td>
             <a href="https://skillicons.dev" target="_blank" style="border:none;">
-            <img alt="html-icon" src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
+            <img alt="html-icon" src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=light">
             </a>
         </td>
         <td>
         <a href="https://skillicons.dev" target="_blank" style="border:none;">
-            <img alt="html-icon" src="https://skillicons.dev/icons?i=mysql,php,cs">
+            <img alt="html-icon" src="https://skillicons.dev/icons?i=mysql,php,cs&theme=light">
         </a>
         </td>
         <td>
