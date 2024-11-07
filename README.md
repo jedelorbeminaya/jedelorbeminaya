@@ -52,7 +52,7 @@ Full-Stack Web Development focusing in create effetive software solutions implem
         </td>
         <td>
         <a href="https://skillicons.dev" target="_blank">
-         <img  alt="figma-icon" src="https://skillicons.dev/icons?i=figma" width="30">
+         <img  alt="figma-icon" src="https://skillicons.dev/icons?i=figma">
          </a>
         </td>
     </tr>
