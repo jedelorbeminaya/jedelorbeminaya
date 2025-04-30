@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
-<p>
-Full-Stack Web Development enthusiastic for creating an efficient Web Applications Solutions.
-</p>
+<p align="center">Full-Stack Web Development enthusiastic for creating an efficient Web Applications Solutions.</p>
 <!--
 <h1 align="center">My currently state</h1>
 <ul>
