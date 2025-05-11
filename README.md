@@ -62,7 +62,3 @@ Here are some ideas to get you started:
     </tr>
 </tbody>
 </table>
-<h1 align="center">Contact with me through</h1>
-<p align="center"><a href="mailto:jedelorbeminaya@outlook.com"><img alt="outlook-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" width="50px"/></a>
-<a href="https://www.linkedin.com/in/jedelorbeminaya"><img alt="LinkedIn-icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" width="50px"/></a></p>
-
