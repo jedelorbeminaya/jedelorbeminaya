@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
-<p align="center">Software Developer enthusiastic for create efficients Web Applications Solutions.</p>
+<p align="center">Software Developer enthusiastic for create efficients Full-Stack Web Applications Solutions.</p>
 <!--
 <h1 align="center">My currently state</h1>
 <ul>
