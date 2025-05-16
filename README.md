@@ -1,29 +1,5 @@
-<!--
-**jedelorbeminaya/jedelorbeminaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
-<p align="center">Software Developer enthusiastic for create efficients Full-Stack Web Applications Solutions.</p>
-<!--
-<h1 align="center">My currently state</h1>
-<ul>
-<li>📚I'm studing in <a href="https://itla.edu.do/" target="_blank">ITLA</a>:<a href="https://itla.edu.do/tecnologia-en-desarrollo-de-software/" target="_blank">[Software Development]</a>.</li>
-<li>📄I'm making certification of <a href="https://www.freecodecamp.org/" target="_blank">FreeCodeCamp</a>:<a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/" target="_blank">[Resposive Web Desing]</a>.</li>
-<li>📄I'm learning <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank">C#</a>:<a href="https://dotnet.microsoft.com/en-us/learn/back-end-web-dev" target="_blank">[ASP.Net Core]</a>.</li>
-</ul>
---->
+<p align="center">Software Developer with +1 year of experice, specialize in backend web development with PHP using Laravel, enthusiastic for create efficients and dynamics Web Applications Solutions.</p>
 
 <table border=2 align="center" width=100%>
 <thead>
