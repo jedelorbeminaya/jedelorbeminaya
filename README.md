@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋 I'm Jose Eduardo Del Orbe Minaya</h1>
-<p align="center">Software Developer with +1 year of experice, specialize in backend web development with PHP using Laravel, enthusiastic for create efficients and dynamics Web Applications Solutions.</p>
+<p align="center">Software Developer with +1 year of experice, specialize in backend web development using PHP with Laravel, enthusiastic for create efficients and dynamics Web Applications Solutions.</p>
 
 <table border=2 align="center" width=100%>
 <thead>
